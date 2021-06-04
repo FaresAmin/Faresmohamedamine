@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "OJAFRe"
 authors:
 - admin
-- Robert Ford
+- RED
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
