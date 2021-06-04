@@ -66,6 +66,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+I am a Ph.D. student at the University of Souk Ahras, Sp : Veterinary anatomy. Working with Professor Tarek Khenenou. And Doctor Rahmoune Djallal Eddine. I'am currently studying veterinary anatomy, focusing on macro and microscopic aspect of immune system in algerian dromedary.
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
